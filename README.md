@@ -23,8 +23,7 @@
 
 <br><br>
 
-- 👨🏽‍💻 I’m currently working like Product Owner;
-- 🌱 I’m currently learning DevOps; 
+- 👨🏽‍💻 I’m currently working like Project Manager;
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://www.linkedin.com/in/dariodonou/)
 - I am passionate about innovation and entrepreneurship in all areas and I know how to work under pressure, climb mountains to achieve my goals.
